@@ -4,7 +4,7 @@ Just another repository
 <h2>Table</h2>
 
 <table style="width:50%">
-  <caption style=text-align: center;>Random people</caption>
+  <caption style="text-align: center;">Random people</caption>
   <tr>
     <th>First name</th>
     <th>Last name</th>
