@@ -1,7 +1,7 @@
 # hello-world
 Just another repository
 
-<h2 style="text-align:center;">Table</h2>
+<h2>Table</h2>
 
 <table style="width:50%">
   <caption>Random people</caption>
