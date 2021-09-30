@@ -22,4 +22,9 @@ Just another repository
     <td>18</td>
     <td>2003</td>
   </tr>
+  
+  
+  <h3>Table 2 </h3> 
+  <table style="width:60%"
+         <caption>Other people</caption>
 
