@@ -3,7 +3,7 @@ Just another repository
 
 <h2>Table</h2>
 
-<table style="width:50%">
+<table style="width:60%">
   <caption>Random people</caption>
   <tr>
     <th>First name</th>
